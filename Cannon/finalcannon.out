@@ -1,0 +1,18 @@
+-1.000000 -1.000000 0.000000 -1.000000 
+1.000000 -1.000000 -1.000000 0.000000 
+0.000000 -1.000000 1.000000 -1.000000 
+1.000000 -1.000000 1.000000 -1.000000 
+inside print prod
+
+ power 2 time 0.000066 procs 4 size 4
+inside print prod
+
+ power 3 time 0.000084 procs 4 size 4
+inside print prod
+
+ power 4 time 0.000100 procs 4 size 4
+inside print prod
+
+ power 5 time 0.000114 procs 4 size 4
+det = -0.999894, 0.000122
+Job complete
